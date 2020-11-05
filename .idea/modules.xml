@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/01-spring-first/01-spring-first.iml" filepath="$PROJECT_DIR$/01-spring-first/01-spring-first.iml" />
       <module fileurl="file://$PROJECT_DIR$/02-springboot-springmvc/02-springboot-springmvc.iml" filepath="$PROJECT_DIR$/02-springboot-springmvc/02-springboot-springmvc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/03-springboot-context-path/03-springboot-context-path.iml" filepath="$PROJECT_DIR$/03-springboot-context-path/03-springboot-context-path.iml" />
     </modules>
   </component>
 </project>

@@ -8,17 +8,20 @@
         <outputRelativeToContentRoot value="true" />
         <module name="01-spring-first" />
         <module name="02-springboot-springmvc" />
+        <module name="03-springboot-context-path" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="01-spring-first" target="11" />
       <module name="02-springboot-springmvc" target="11" />
+      <module name="03-springboot-context-path" target="11" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
       <module name="01-spring-first" options="-parameters" />
       <module name="02-springboot-springmvc" options="-parameters" />
+      <module name="03-springboot-context-path" options="-parameters" />
     </option>
   </component>
 </project>
