@@ -5,6 +5,10 @@
       <module fileurl="file://$PROJECT_DIR$/01-spring-first/01-spring-first.iml" filepath="$PROJECT_DIR$/01-spring-first/01-spring-first.iml" />
       <module fileurl="file://$PROJECT_DIR$/02-springboot-springmvc/02-springboot-springmvc.iml" filepath="$PROJECT_DIR$/02-springboot-springmvc/02-springboot-springmvc.iml" />
       <module fileurl="file://$PROJECT_DIR$/03-springboot-context-path/03-springboot-context-path.iml" filepath="$PROJECT_DIR$/03-springboot-context-path/03-springboot-context-path.iml" />
+      <module fileurl="file://$PROJECT_DIR$/04-springboot-properties-yml-yaml/04-springboot-properties-yml-yaml.iml" filepath="$PROJECT_DIR$/04-springboot-properties-yml-yaml/04-springboot-properties-yml-yaml.iml" />
+      <module fileurl="file://$PROJECT_DIR$/05-springboot-multi-envioonment-properties/05-springboot-multi-envioonment-properties.iml" filepath="$PROJECT_DIR$/05-springboot-multi-envioonment-properties/05-springboot-multi-envioonment-properties.iml" />
+      <module fileurl="file://$PROJECT_DIR$/06-springboot-customer-configuration/06-springboot-customer-configuration.iml" filepath="$PROJECT_DIR$/06-springboot-customer-configuration/06-springboot-customer-configuration.iml" />
+      <module fileurl="file://$PROJECT_DIR$/07-springboot-mybatis/07-springboot-mybatis.iml" filepath="$PROJECT_DIR$/07-springboot-mybatis/07-springboot-mybatis.iml" />
     </modules>
   </component>
 </project>

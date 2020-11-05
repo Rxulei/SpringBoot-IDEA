@@ -1,0 +1,8 @@
+# 在resources文件下，新建一个文件，取名为application.yml
+# server.port 回车，得到下面
+# 缩进格式不一样，内容一样
+server:
+  port: 8082
+  servlet:
+
+    context-path: /new

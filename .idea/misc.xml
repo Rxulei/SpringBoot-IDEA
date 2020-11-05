@@ -6,6 +6,11 @@
         <option value="$PROJECT_DIR$/01-spring-first/pom.xml" />
         <option value="$PROJECT_DIR$/02-springboot-springmvc/pom.xml" />
         <option value="$PROJECT_DIR$/03-springboot-context-path/pom.xml" />
+        <option value="$PROJECT_DIR$/04-springboot-properties-yml-yaml/pom.xml" />
+        <option value="$PROJECT_DIR$/05-springboot-multi-envioonment-properties/pom.xml" />
+        <option value="$PROJECT_DIR$/06-springboot-customer-configuration/pom.xml" />
+        <option value="$PROJECT_DIR$/07-springboot-jsp/pom.xml" />
+        <option value="$PROJECT_DIR$/07-springboot-mybatis/pom.xml" />
       </list>
     </option>
   </component>
