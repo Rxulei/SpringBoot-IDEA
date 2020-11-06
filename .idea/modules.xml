@@ -9,6 +9,7 @@
       <module fileurl="file://$PROJECT_DIR$/05-springboot-multi-envioonment-properties/05-springboot-multi-envioonment-properties.iml" filepath="$PROJECT_DIR$/05-springboot-multi-envioonment-properties/05-springboot-multi-envioonment-properties.iml" />
       <module fileurl="file://$PROJECT_DIR$/06-springboot-customer-configuration/06-springboot-customer-configuration.iml" filepath="$PROJECT_DIR$/06-springboot-customer-configuration/06-springboot-customer-configuration.iml" />
       <module fileurl="file://$PROJECT_DIR$/07-springboot-mybatis/07-springboot-mybatis.iml" filepath="$PROJECT_DIR$/07-springboot-mybatis/07-springboot-mybatis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/08-springboot-mybatis2/08-springboot-mybatis2.iml" filepath="$PROJECT_DIR$/08-springboot-mybatis2/08-springboot-mybatis2.iml" />
     </modules>
   </component>
 </project>
