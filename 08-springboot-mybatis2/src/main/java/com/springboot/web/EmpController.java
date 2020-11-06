@@ -24,3 +24,7 @@ public class EmpController {
         return emp;
     }
 }
+/*
+* 输入：http://localhost:8080/emp?empno=7521
+* 输出：{"empno":7521,"ename":"WARD","job":"SALESMAN","mgr":7698,"hiredate":"1981-02-21T16:00:00.000+00:00","sal":1250.0,"comm":500.0,"deptno":30}
+* */
