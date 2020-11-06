@@ -52,6 +52,19 @@
 	</dependencies>
 
 	<build>
+
+		<!--手动指定文件夹为resources-->
+		<resources>
+			<resource>
+				<directory>src/main/java</directory>
+				<includes>
+					<include>**/*.xml</include>
+				</includes>
+			</resource>
+
+		</resources>
+
+
 		<plugins>
 			<!--mybatis逆向工程，代码自动生成插件-->
 			<plugin>
